@@ -234,7 +234,7 @@ function NavBar(props) {
                 display="inline"
                 color="secondary"
               >
-                LandingPage Template
+                Decolonize.Africa
               </Typography>
             </Hidden>
           </Box>

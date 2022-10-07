@@ -130,8 +130,7 @@ function HeadSection(props) {
                         <Typography
                           variant={isWidthUp("lg", width) ? "h3" : "h4"}
                         >
-                          Free Template for building a WebPage using
-                          Material-UI
+                           Crypto infrastructure by and for the melanin-enhanced chosen ones
                         </Typography>
                       </Box>
                       <div>
@@ -140,9 +139,9 @@ function HeadSection(props) {
                             variant={isWidthUp("lg", width) ? "h6" : "body1"}
                             color="textSecondary"
                           >
-                            Lorem ipsum dolor sit amet, consetetur sadipscing
-                            elitr, sed diam nonumy eirmod tempor invidunt
-                          </Typography>
+                           Decentralized Ledger Technology AKA Crypto empowers the individual to exercise control over ones own economic and social freedom, and this is welcome news for our Melanated community. 
+                           Our social and economic needs often take a back burner, sometimes in our own countries!  Our innovative algorithm transforms ordinary UPC codes 
+                           into melanated owned and operated infrastructure, economy, data, currency, entertainment. The entire system was designed and built by built by a decentralized melanated team.  </Typography>
                         </Box>
                         <Button
                           variant="contained"
